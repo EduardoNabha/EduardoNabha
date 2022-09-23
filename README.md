@@ -20,6 +20,6 @@
 
 <div>
 <h2>Alguns dos meus projetos:</h2>
-<img src="https://github.com/EduardoNabha/nlw-Agregador-de-Links/blob/master/assets/img/bg.JPG">
+<img src="[https://github.com/EduardoNabha/nlw-Agregador-de-Links/blob/master/assets/img/bg.JPG](https://github.com/EduardoNabha/nlw-Agregador-de-Links/blob/master/.github/preview.PNG)">
 </div>
 ##
