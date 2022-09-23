@@ -14,7 +14,11 @@
   <img align="center" alt="CSS-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Linux-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
- 
+ </div>
+<div>
+<h1>Alguns dos meus projetos:</h1>
+<a href="https://eduardonabha.github.io/ticTacToe/">Tic Tac Toe game</a>
+<a href="https://eduardonabha.github.io/nlw-Agregador-de-Links/">Agregador de Links NLW</a>
 
 </div>
 
