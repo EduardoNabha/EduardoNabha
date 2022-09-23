@@ -1,5 +1,5 @@
 <h1>Olá, Mundo!🗺<br>Eu sou EduardoNabha👩🏻‍💻 </h1>
-<p>Atualmente estou estudando HTML, CSS e JavaScript!</p>
+<p>Atualmente estou estudando HTML, CSS e JavaScript, Python e Web Scrap!</p>
 <p>Seja bem-vindo ao meu perfil!</p>
 <div align="center">
   <a href="https://github.com/EduardoNabha">
