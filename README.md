@@ -1,5 +1,5 @@
 <h1>Olá, Mundo!🗺<br>Eu sou EduardoNabha👩🏻‍💻 </h1>
-<p>Atualmente estou estudando HTML, CSS e JavaScript, Python e Web Scrap!</p>
+<p>Atualmente estou estudando desenvolvimento web com foco em HTML, CSS, JS e Python.</p>
 <p>Seja bem-vindo ao meu perfil!</p>
 <div align="center">
   <a href="https://github.com/EduardoNabha">
@@ -17,7 +17,6 @@
  </div>
 <div>
 <h1>Alguns dos meus projetos:</h1>
-<a href="https://eduardonabha.github.io/ticTacToe/">Tic Tac Toe game</a>
 <a href="https://eduardonabha.github.io/nlw-Agregador-de-Links/">Agregador de Links NLW</a>
 
 </div>
